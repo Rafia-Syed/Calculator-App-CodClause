@@ -4,12 +4,7 @@ Develop a calculator app that performs basic arithmetic operations like addition
 
 multiplication, and division.
 
-1. UI Design: Create a layout with number buttons (0-9) and operator buttons (+
-, -,
-*
-, /).
-
-Design a display area to show entered numbers and results.
+1. UI Design: Create a layout with number buttons (0-9) and operator buttons (+, -,*, /). Design a display area to show entered numbers and results.
 
 2. Number Input: Capture user input when number buttons are pressed.
 Store entered numbers for further processing.
